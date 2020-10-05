@@ -2210,6 +2210,11 @@ Noida
 - Bio: Creator of Alexa Skills and Lex based chatbots
 - GitHub: [Terren Peterson](https://github.com/terrenjpeterson)
 
+#### Name: [Theo Harris](https:/github.com/Theosaurus-Rex)
+- Place: Sydney, NSW, Australia
+- Bio: Full Stack Development Student
+- GitHub: [Terren Peterson](https://github.com/Theosaurus-Rex)
+
 #### Name: [Thomas Booker](https://github.com/thomas-booker)
 - Place: Stockport, Cheshire, England
 - Bio: Budding software developer, studying MSc Computing
